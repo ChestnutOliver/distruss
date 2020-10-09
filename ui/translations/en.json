@@ -271,8 +271,7 @@
     "not_a_moderator": "Not a moderator.",
     "site_already_exists": "Site already exists.",
     "couldnt_update_site": "Couldn't update site.",
-    "couldnt_find_that_username_or_email":
-      "Couldn't find that username or email.",
+    "couldnt_find_that_username_or_email": "Couldn't find that username or email.",
     "password_incorrect": "Password incorrect.",
     "passwords_dont_match": "Passwords do not match.",
     "no_password_reset": "You will not be able to reset your password without an email.",
